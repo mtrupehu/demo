@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, aws-alexa, aws-lambda, aws-v2-sdk, cache-caffeine, elasticsearch, github-workflow-docker-registry, graalvm, gradle, h2, http-client, jackson-xml, java, java-application, jdbc-tomcat, jib, jmx, junit, kafka, kafka-streams, kubernetes, management, openapi, properties, readme, rxjava3, security-annotations, security-jwt, security-ldap, slf4j-simple, sql-jdbi, tomcat-server, tracing-jaeger, views-thymeleaf]
